@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HomeworkDeploy/static/css/main.073c9b0a.css",
-    "main.js": "/HomeworkDeploy/static/js/main.a806b30d.js",
+    "main.js": "/HomeworkDeploy/static/js/main.40fae2af.js",
     "static/js/787.177e23c2.chunk.js": "/HomeworkDeploy/static/js/787.177e23c2.chunk.js",
     "index.html": "/HomeworkDeploy/index.html",
     "main.073c9b0a.css.map": "/HomeworkDeploy/static/css/main.073c9b0a.css.map",
-    "main.a806b30d.js.map": "/HomeworkDeploy/static/js/main.a806b30d.js.map",
+    "main.40fae2af.js.map": "/HomeworkDeploy/static/js/main.40fae2af.js.map",
     "787.177e23c2.chunk.js.map": "/HomeworkDeploy/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a806b30d.js"
+    "static/js/main.40fae2af.js"
   ]
 }
